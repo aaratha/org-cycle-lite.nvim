@@ -58,7 +58,3 @@ require("org-cycle-lite").setup({
   keymap = "<TAB>",  -- Optional
 })
 ```
-
-```
-
-```
