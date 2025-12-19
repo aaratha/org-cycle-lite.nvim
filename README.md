@@ -2,7 +2,7 @@
 
 This plugin replaces default cycling with a simpler version, implementing the [org-cycle-only-current-subtree-h](https://github.com/doomemacs/doomemacs/blob/master/modules/lang/org/autoload/org.el#L497) functionality of Doom Emacs, disabling the show-all stage of org-cycle.
 
-This allows org-cycle to cycles only between folded → children visible → folded, without revealing the full subtree, which can make browsing notes faster for some workflows.
+This forces cycling only between folded → children visible → folded, without revealing the full subtree, which can make browsing notes faster for some workflows.
 
 This plugin is an extension intended for use with [orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim)
 
