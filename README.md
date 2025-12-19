@@ -4,7 +4,7 @@ This plugin replaces default cycling with a simpler version, implementing the [o
 
 This forces cycling only between folded → children visible → folded, without revealing the full subtree, which can make browsing notes faster for some workflows.
 
-This plugin is an extension intended for use with [orgmode.nvim](https://github.com/kristijanhusak/orgmode.nvim)
+This plugin is an extension intended for use with [nvim-orgmode](https://github.com/kristijanhusak/orgmode.nvim)
 
 ## Features
 
