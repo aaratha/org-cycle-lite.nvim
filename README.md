@@ -36,7 +36,7 @@ require("lazy").setup({
 
 ```lua
 use {
-  "username/org-cycle-lite.nvim",
+  "aaratha/org-cycle-lite.nvim",
   config = function()
     require("org-cycle-lite").setup({
       keymap = "<TAB>",  -- Optional: change keymap
@@ -48,7 +48,7 @@ use {
 ### Using Vim-Plug
 
 ```vim
-Plug 'username/org-cycle-lite.nvim'
+Plug 'aaratha/org-cycle-lite.nvim'
 ```
 
 Then in lua config:
